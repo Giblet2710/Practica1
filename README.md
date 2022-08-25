@@ -1,2 +1,2 @@
 # Practica1
-Primer repositorio:)
+Primer repositorio en practica:)
